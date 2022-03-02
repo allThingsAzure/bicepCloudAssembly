@@ -11,7 +11,7 @@ module stg 'Modules/storageAccount.bicep' = {
   name: 'sta'
   params: {
     location: location    
-    storagePrefix: resourcePrefix
+    storageAccountPrefix: resourcePrefix
     
   }
 }
