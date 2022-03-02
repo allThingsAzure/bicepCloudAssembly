@@ -1,2 +1,2 @@
-# bicepDemo
+# bicepCloudAssembly
 Introduction to Azure bicep
