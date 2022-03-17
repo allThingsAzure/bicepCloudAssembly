@@ -1,6 +1,6 @@
 // ****************************************
 // Azure Bicep Deployment
-// This deployemnt will deploy a simple Azure storage Accountthe below components for Private AKS deployment.
+// This deployemnt will deploy a simple Azure storage Account
 // ****************************************
 
 targetScope = 'resourceGroup'
